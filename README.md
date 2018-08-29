@@ -1,2 +1,7 @@
-# reinforcement
-Implementation of RL models using Tensorflow and OpenAI Gym
+# Reinforcement
+
+## Prerequisites
+- OpenAI Gym
+
+## Contents
+- Dynamic Programming
